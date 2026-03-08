@@ -1,0 +1,22 @@
+[
+  {
+    "branch": "Ontology",
+    "question": "What exists?",
+    "focus": "Nature of reality and being"
+  },
+  {
+    "branch": "Epistemology",
+    "question": "How do we know things?",
+    "focus": "Nature and limits of knowledge"
+  },
+  {
+    "branch": "Ethics",
+    "question": "What is right and wrong?",
+    "focus": "Moral principles and behavior"
+  },
+  {
+    "branch": "Logic",
+    "question": "What makes reasoning valid?",
+    "focus": "Structure of arguments"
+  }
+]
